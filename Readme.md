@@ -1,1 +1,1 @@
-Please find Assignment - NIRA - Sr Data Scientist-Solution for PART II solution
+Please see docx for PART II solution
